@@ -1,6 +1,6 @@
 "use client";
 
-import { Zap, Shield, Users, Clock, Star, DollarSign } from "lucide-react";
+import { Zap, Shield, Users, Clock, Star } from "lucide-react";
 
 export default function Services() {
   const services = [
